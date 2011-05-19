@@ -1,0 +1,9 @@
+C:\Projects\WorldReader\WorldReader\bin\Debug\WorldReader.exe
+C:\Projects\WorldReader\WorldReader\bin\Debug\WorldReader.pdb
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\WorldReader.Properties.Resources.resources
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\WorldReader.exe
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\WorldReader.pdb
+C:\Projects\WorldReader\WorldReader\obj\x86\Debug\WorldReader.Form1.resources
