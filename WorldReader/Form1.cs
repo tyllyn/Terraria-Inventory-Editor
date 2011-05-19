@@ -351,6 +351,11 @@ namespace WorldReader {
         private void CreateNewPlayerFile() {
 
             var filename = PlayerFileName;
+            try {
+                File.Delete(filename + ".invbak");
+            } catch (Exception ex) {
+                // throw your hands in the air
+            }
             File.Copy(filename, filename + ".invbak"); // before we go crazy, let's back our original up
 
             Player player = new Player();
@@ -434,6 +439,8 @@ namespace WorldReader {
                         bw.Close();
 
                         Player.EncryptFile(strEdit, strEditEnc);
+                        File.Delete(filename);
+                        File.Copy(strEditEnc, filename);
 
 
                         // display information
