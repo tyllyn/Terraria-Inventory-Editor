@@ -108,7 +108,7 @@ namespace WorldReader {
                 al.Add("Gold Pickaxe");
                 al.Add("War Axe of the Night");
                 al.Add("Nightmare Pickaxe");
-                al.Add("Meteorite Hamaxe");
+                al.Add("Meteor Hamaxe");
                 al.Add("Wooden Sword");
                 al.Add("Wooden Bow");
                 al.Add("Copper Shortsword");
@@ -147,20 +147,7 @@ namespace WorldReader {
                 al.Add("Dynamite");
                 al.Add("Shuriken");
                 al.Add("Vile Powder");
-                al.Add("Copper Greaves");
-                al.Add("Copper Chainmail");
-                al.Add("Copper Helmet");
-                al.Add("Iron Chainmail");
-                al.Add("Iron Greaves");
-                al.Add("Iron Helmet");
-                al.Add("Silver Greaves");
-                al.Add("Silver Chainmail");
-                al.Add("Gold Greaves");
-                al.Add("Gold Chainmail");
-                al.Add("Gold Helmet");
-                al.Add("Meteor Leggings");
-                al.Add("Meteor Suit");
-                al.Add("Meteor Helmet");
+                
                 al.Add("Miner's Helmet");
                 al.Add("Googles");
                 al.Add("Gray Brick");
@@ -259,6 +246,47 @@ namespace WorldReader {
                 al.Add("Dirt Rod");
                 al.Add("Orb of Light");
                 al.Add("Sunfury");
+
+                al.Add("Molten Pickaxe");
+                al.Add("Molten Hamaxe");
+                al.Add("The Breaker");
+                al.Add("Breathing Reed");
+
+                al.Add("Copper Greaves");
+                al.Add("Copper Chainmail");
+                al.Add("Copper Helmet");
+                al.Add("Iron Chainmail");
+                al.Add("Iron Greaves");
+                al.Add("Iron Helmet");
+                al.Add("Silver Greaves");
+                al.Add("Silver Chainmail");
+                al.Add("Gold Greaves");
+                al.Add("Gold Chainmail");
+                al.Add("Gold Helmet");
+                al.Add("Meteor Leggings");
+                al.Add("Meteor Suit");
+                al.Add("Meteor Helmet");
+
+                // shadow
+                al.Add("Shadow Helmet");
+                al.Add("Shadow Scalemail");
+                al.Add("Shadow Greaves");
+                
+                // cobalt
+                al.Add("Cobalt Helmet");
+                al.Add("Cobalt Breastplate");
+                al.Add("Cobalt Greaves");
+
+                // necro
+                al.Add("Necro Helmet");
+                al.Add("Necro Breastplate");
+                al.Add("Necro Greaves");
+
+                // molten
+                al.Add("Molten Helmet");
+                al.Add("Molten Breastplate");
+                al.Add("Molten Greaves");
+                
                 al.Sort();
                 return al;
 
