@@ -258,6 +258,7 @@ namespace WorldReader {
                 al.Add("Lesser Mana Potion");
                 al.Add("Dirt Rod");
                 al.Add("Orb of Light");
+                al.Add("Sunfury");
                 al.Sort();
                 return al;
 
